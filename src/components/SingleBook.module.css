@@ -1,0 +1,22 @@
+/* src/components/SingleBook.module.css */
+.book {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .book img {
+    max-width: 100px;
+    height: auto;
+  }
+  
+  .book p {
+    margin: 10px 0 0 0;
+    font-size: 14px;
+  }
+  
+  .selected {
+    border: 2px solid red;
+  }
+  
